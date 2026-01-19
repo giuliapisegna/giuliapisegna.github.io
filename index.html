@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Academic Homepage">
+    <meta name="keywords" content="Computer Science, PhD Student, Research, Machine Learning, Robotics">
+    <meta name="author" content="Anonymous">
+    <meta property="og:title" content="Academic Homepage - PhD Student">
+    <meta property="og:description" content="Research in computer science and related fields.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="#">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@anonymous">
+    <title>Academic Homepage</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body id="top">
+    <header>
+        <div class="header-content">
+            <h1>Giulia Pisegna</h1>
+            <p>Postdoctoral Researcher</p>
+            <div class="social-links-header">
+                <a href="https://scholar.google.it/citations?user=sHW6Z_UAAAAJ&hl=it"><i class="fas fa-graduation-cap"></i>Google Scholar</a>
+                <a href="mailto:giulia.pisegna@ds.mpg.de"><i class="fas fa-envelope"></i>Email</a>
+            </div>
+        </div>
+        <div class="header-image">
+            <img src="images/profile.jpg" alt="Profile Photo">
+        </div>
+    </header>
+
+    <main>
+        <section id="about">
+            <p>I am a theoretical physicist studying collective properties of non-equilibrium and living systems</a>.</p>
+              <p>
+                I currently work as a Postdoctoral Researcher in the Living Matter Physics department of the
+                <a class="link-plain" href="https://www.ds.mpg.de/en" target="_blank" rel="noopener">
+                  <span class="text-accent">Max Planck</span> Institute for Dynamics and Self-Organization
+                </a>
+                in Göttingen, Germany.
+              </p>
+              <a href="cv/GPisegna_cv.pdf" target="_blank" rel="noopener">
+                CV (PDF)
+              </a>
+
+        </section>
+
+
+    <section id="research">
+    <h2>Research</h2>
+
+    <p>
+   <strong>How do living systems self-organize and achieve robust collective behavior?</strong>
+ </p>
+        In my research I explore universal physical mechanisms by which local interactions drive emergent
+          collective phenomena in living matter. For this, I
+          use statistical field theory, agent-based simulations, and hydrodynamic approaches.
+    </p>
+
+    <p>
+        <strong>Self-organization through non-reciprocity.</strong>
+        I study field-theoretical models of two-species systems where action–reaction symmetry is broken.
+This approach identifies non-equilibrium states of spatial organization that have no equilibrium counterpart
+and are robust to fluctuations.
+      </p>
+
+    <p>
+  <strong>Collective behavior of animal groups.</strong>
+  From bird flocks to insect swarms, collective motion is achieved through long-range spatio-temporal correlations.
+  I study active-matter models to reproduce quantitative features of these systems.
+</p>
+  </section>
+
+  <section id="publications">
+            <div class="publications-header">
+                <h2 id="toggle-header">Selected Publications</h2>
+                <button id="toggle-publications" class="toggle-publications">Show All</button>
+            </div>
+            <div id="publications-container">
+                <!-- Publications will be dynamically loaded here -->
+            </div>
+        </section>
+
+        <section id="miscellaneous">
+            <h2>Miscellaneous</h2>
+            <div class="misc-item">
+                <p>Co-organizer of the conference <a href="https://intcha26.sciencesconf.org"> Interdisciplinary Challenges in the physics of complexity
+and life 2026 </a>, Cargèse (FR).</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Last updated: Jan 2026. Design and source code from <a href="https://cs.stanford.edu/~yuhuiz/"> Y.Zhang's repository</a>.</p>
+    </footer>
+
+    <div id="imageModal" class="modal">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

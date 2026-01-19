@@ -1,0 +1,177 @@
+{
+  "publications": [
+    {
+      "title": "Nonreciprocal mixtures in suspension: the role of hydrodynamic interactions",
+      "authors": [
+        "G. Pisegna",
+        "N. Rana",
+        "R. Golestanian",
+        "S. Saha"
+      ],
+      "venue": "Physical Review Letters (2025)",
+      "thumbnail": "images/thumbs/hydropic.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://journals.aps.org/prl/abstract/10.1103/gbg1-lwwt"
+      }
+    },
+    {
+      "title": "Emergent polar order in nonpolar mixtures with nonreciprocal interactions",
+      "authors": [
+        "G. Pisegna",
+        "S. Saha",
+        "R. Golestanian"
+      ],
+      "venue": "Proceedings of the National Academy of Sciences (2024)",
+      "thumbnail": "images/thumbs/potential.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://www.pnas.org/doi/epdf/10.1073/pnas.2407705121"
+      }
+    },
+    {
+    "title": "Natural swarms in 3.99 dimensions",
+    "authors": [
+      "A. Cavagna",
+      "L. Di Carlo",
+      "I. Giardina",
+      "T.S. Grigera",
+      "S. Melillo",
+      "L. Parisi",
+      "G. Pisegna",
+      "M. Scandolo"
+    ],
+    "venue": "Nature Physics (2023)",
+    "thumbnail": "images/thumbs/swarms.jpg",
+    "selected": 1,
+    "award": "",
+    "links": {
+      "pdf": "https://www.nature.com/articles/s41567-023-02028-0"
+    }
+  },
+  {
+  "title": "Dynamical renormalization group approach to the collective behavior of swarms",
+  "authors": [
+    "A. Cavagna",
+    "L. Di Carlo",
+    "I. Giardina",
+    "L. Grandinetti",
+    "T.S. Grigera",
+    "G. Pisegna"
+  ],
+  "venue": "Physical Review Letters (2019)",
+  "thumbnail": "images/thumbs/diagrams.jpg",
+  "selected": 1,
+  "award": "",
+  "links": {
+    "pdf": "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.123.268001"
+  }
+},
+{
+"title": "Hydrodynamic stresses in a multi-species suspension of active Janus colloids",
+"authors": [
+"G. Tucci",
+  "G. Pisegna",
+  "R. Golestanian",
+  "S. Saha"
+],
+"venue": "Physical Review Research (2025)",
+"thumbnail": "images/thumbs/hydropic.jpg",
+"selected": 0,
+"award": ""
+},
+{
+"title": "Out-of-equilibrium response and fluctuation-dissipation violations across scales in flocking systems",
+"authors": [
+  "F. Ferretti",
+  "I. Giardina",
+    "T.S. Grigera",
+  "G. Pisegna",
+  "M. Veca"
+],
+"venue": "Physical Review Research (2025)",
+"thumbnail": "images/thumbs/flocks.jpg",
+"selected": 0,
+"award": ""
+},
+{
+"title": "Inertial spin model of flocking with position-dependent forces",
+"authors": [
+  "S. Carruitero Contreras",
+  "A. Costa",
+  "G. Pisegna",
+  "M. B. Sturla",
+  "T.S. Grigera"
+],
+"venue": "Physical Review E (2024)",
+"thumbnail": "images/thumbs/swarms.jpg",
+"selected": 0,
+"award": ""
+},
+{
+"title": "Marginal speed confinement resolves the conflict between correlation and control in collective behaviour",
+"authors": [
+  "A. Cavagna",
+  "A. Culla",
+  "X. Feng",
+  "I. Giardina",
+  "T.S. Grigera",
+  "W. Kion-Crosby",
+  "S. Melillo",
+  "G. Pisegna",
+  "L. Postiglione",
+  "P. Villegas"
+],
+"venue": "Nature Communications (2022)",
+"thumbnail": "images/thumbs/flocks.jpg",
+"selected": 0,
+"award": ""
+},
+{
+"title": "Dynamical renormalization group for mode-coupling field theories with solenoidal constraint",
+"authors": [
+  "A. Cavagna",
+  "L. Di Carlo",
+  "I. Giardina",
+  "T.S. Grigera",
+  "G. Pisegna",
+  "M. Scandolo"
+],
+"venue": "Journal of Statistical Physics (2021)",
+"thumbnail": "images/thumbs/diagrams.jpg",
+"selected": 0,
+"award": ""
+},
+{
+"title": "Equilibrium to off-equilibrium crossover in homogeneous active matter",
+"authors": [
+  "A. Cavagna",
+  "L. Di Carlo",
+  "I. Giardina",
+  "T.S. Grigera",
+  "G. Pisegna"
+],
+"venue": "Physical Review Research (2021)",
+"thumbnail": "images/thumbs/flocks.jpg",
+"selected": 0,
+"award": ""
+},
+{
+"title": "Renormalization group crossover in the critical dynamics of field theories with mode coupling terms",
+"authors": [
+  "A. Cavagna",
+  "L. Di Carlo",
+  "I. Giardina",
+  "L. Grandinetti",
+  "T.S. Grigera",
+  "G. Pisegna"
+],
+"venue": "Physical Review E (2019)",
+"thumbnail": "images/thumbs/diagrams.jpg",
+"selected": 0,
+"award": ""
+}
+  ]
+}
